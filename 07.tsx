@@ -1,4 +1,4 @@
-import React, { useEffect, ComponentProps } from "react";
+import React, { useEffect } from "react";
 import {
   render,
   Color,
