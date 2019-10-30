@@ -1,5 +1,5 @@
 ---
-title: "Your talk title"
+title: "Power of Preconditions"
 ---
 
 _the talk_
@@ -7,15 +7,23 @@ _the talk_
 
 # How
 
-TBD
+A VSCode presentation.
 
 # Why
 
-TBD
+Use console.assert, you'll be better off.
 
 # What
 
-TBD
+- I'm Piotr Monwid-Olechnowicz and I wanted to say sorry
+- I'd like to encourage you to press the bright green button
+- Thank the talented and courageous developers who have spoken before me
+- Mention your Svelte problems
+
+- partial vs total functions
+  - `head` example
+  - wikipedia links
+- returning vs throwing errors
 
 ---
 _quick reminders_
@@ -56,3 +64,4 @@ Use regions to hide imports and code pasted from previous slides
 
 - cloned from https://github.com/blackdahila/wroc-ts-08-talk
 - based on https://staltz.com/your-ide-as-a-presentation-tool.html
+

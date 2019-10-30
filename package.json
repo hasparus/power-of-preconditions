@@ -3,10 +3,24 @@
   "version": "0.1.0",
   "license": "MIT",
   "private": true,
+  "scripts": {
+    "typecheck": "tsc --noEmit",
+    "lint": "eslint ./*.ts"
+  },
   "dependencies": {
-    "@types/node": "^12.12.0",
+    "@types/ink": "^0.5.2",
+    "@types/node": "^12.12.1",
+    "delay": "^4.3.0",
     "fp-ts": "^2.1.1",
+    "ink": "^2.5.0",
+    "nom-ts": "^0.1.0",
+    "react": "^16.11.0",
     "ts-node": "^8.4.1",
-    "typescript": "^3.7.1-rc"
+    "typescript": "^3.7.1-rc",
+    "zustand": "^2.2.1"
+  },
+  "devDependencies": {
+    "eslint": "^6.0.0-rc.0",
+    "eslint-config-chop-chop": "^1.2.1"
   }
 }
