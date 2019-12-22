@@ -15,15 +15,18 @@ Use console.assert, you'll be better off.
 
 # What
 
-- I'm Piotr Monwid-Olechnowicz and I wanted to say sorry
-- I'd like to encourage you to press the bright green button
-- Thank the talented and courageous developers who have spoken before me
-- Mention your Svelte problems
+- Intro
+  - I'm Piotr Monwid-Olechnowicz and I wanted to say sorry
+  - I'd like to encourage you to press the bright green button
+  - Thank the talented and courageous developers who have spoken before me
+  - Mention your Svelte problems
 
 - partial vs total functions
   - `head` example
   - wikipedia links
 - returning vs throwing errors
+
+- slides
 
 ---
 _quick reminders_
